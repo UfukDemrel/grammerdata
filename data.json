@@ -1,0 +1,48 @@
+[
+    { 
+        "id": "0",
+        "title": "Unit 1",
+        "svg0": "https://img.icons8.com/sf-black-filled/40/228BE6/rating-circled.png",
+        "svg1": "https://img.icons8.com/sf-black-filled/40/40C057/rating-circled.png",
+        "svg2": "https://img.icons8.com/color/40/so-so.png",
+        "content": "Basic greetings & What's your..?",
+        "description": "Build upon your basic greetings knowledge and dive into more advanced phrases. Practice asking about well-being and expressing feelings.",
+        "info": [
+            {
+                "id": "0",
+                "title": "Lesson 1",
+                "content": "Warmup: 2 truths and a lie.",
+                "state": [
+                  {
+                    "id": "0",
+                    "text1": "Merhaba",
+                    "text2": "Selamınaleyküm"
+                  }
+                ] 
+            }
+        ]
+    },
+    { 
+        "id": "1",
+        "title": "Unit 2",
+        "svg0": "https://img.icons8.com/sf-black-filled/40/228BE6/rating-circled.png",
+        "svg1": "https://img.icons8.com/sf-black-filled/40/40C057/rating-circled.png",
+        "svg2": "https://img.icons8.com/color/40/so-so.png",
+        "content": "Basic greetings & What's your..?",
+        "description": "Build upon your basic greetings knowledge and dive into more advanced phrases. Practice asking about well-being and expressing feelings.",
+        "info": [
+            {
+                "id": "0",
+                "title": "Lesson 1",
+                "content": "Warmup: 2 truths and a lie.",
+                "state": [
+                  {
+                    "id": "0",
+                    "text1": "Merhaba",
+                    "text2": "Selamınaleyküm"
+                  }
+                ] 
+            }
+        ]
+    }
+]
