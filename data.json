@@ -31,8 +31,21 @@
         "states": [
           {
             "id": "state2",
-            "text1": "Merhaba",
-            "text2": "Selamınaleyküm"
+            "text1": "selam",
+            "text2": "kral"
+          }
+        ]
+      },
+      {
+        "id": "lesson3",
+        "title": "Lesson 3",
+        "content": "Learn grammer: Basic grammar explanation",
+        "icons": "https://img.icons8.com/bubbles/50/language.png",
+        "states": [
+          {
+            "id": "state2",
+            "text1": "uuuu",
+            "text2": "asdasdasd"
           }
         ]
       }
