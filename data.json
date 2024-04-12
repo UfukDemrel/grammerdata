@@ -22,7 +22,20 @@
             "text2": "Selamınaleyküm"
           }
         ]
-      }
+      },
+      {
+        "id": "lesson2",
+        "title": "Lesson 2",
+        "content": "Learn the skill: A good and bad sample",
+        "icons": "https://img.icons8.com/office/16/steve-jobs.png",
+        "states": [
+          {
+            "id": "state2",
+            "text1": "Merhaba",
+            "text2": "Selamınaleyküm"
+          }
+        ]
+      },
     ]
   },
   {
@@ -47,19 +60,7 @@
             "text2": "Selamınaleyküm"
           }
         ]
-      },
-      {
-        "id": "lesson2",
-        "title": "Lesson 2",
-        "content": "Learn the skill: A good and bad sample",
-        "states": [
-          {
-            "id": "state2",
-            "text1": "Merhaba",
-            "text2": "Selamınaleyküm"
-          }
-        ]
-      },
+      }
     ]
   }
 ]
