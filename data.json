@@ -33,8 +33,8 @@
       "svg1": "https://img.icons8.com/sf-black-filled/40/40C057/rating-circled.png",
       "svg2": "https://img.icons8.com/color/40/so-so.png"
     },
-    "content": "Basic greetings & What's your..?",
-    "description": "Build upon your basic greetings knowledge and dive into more advanced phrases. Practice asking about well-being and expressing feelings.",
+    "content": "Learn jobs and plural nouns",
+    "description": "You will learn how to name common jobs, form plural nouns, and correctly use the verb 'be'in various sentence structures",
     "lessons": [
       {
         "id": "lesson1",
@@ -47,7 +47,19 @@
             "text2": "Selamınaleyküm"
           }
         ]
-      }
+      },
+      {
+        "id": "lesson2",
+        "title": "Lesson 2",
+        "content": "Learn the skill: A good and bad sample",
+        "states": [
+          {
+            "id": "state2",
+            "text1": "Merhaba",
+            "text2": "Selamınaleyküm"
+          }
+        ]
+      },
     ]
   }
 ]
