@@ -42,8 +42,8 @@
     "id": "unit2",
     "title": "Unit 2",
     "icons": {
-      "svg0": "https://img.icons8.com/sf-black-filled/40/228BE6/rating-circled.png",
-      "svg1": "https://img.icons8.com/sf-black-filled/40/40C057/rating-circled.png",
+      "svg0": "https://img.icons8.com/pulsar-line/48/star.png", 
+      "svg1": "https://img.icons8.com/pulsar-gradient/48/star.png",
       "svg2": "https://img.icons8.com/color/40/so-so.png"
     },
     "content": "Learn jobs and plural nouns",
