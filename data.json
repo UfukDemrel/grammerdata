@@ -3,8 +3,8 @@
     "id": "unit1",
     "title": "Unit 1",
     "icons": {
-      "svg0": "https://img.icons8.com/pulsar-line/48/star.png", 
-      "svg1": "https://img.icons8.com/pulsar-gradient/48/star.png",
+      "svg0": "https://img.icons8.com/sf-black-filled/64/737373/rating-circled.png", 
+      "svg1": "https://img.icons8.com/sf-black-filled/64/40C057/rating-circled.png",
       "svg2": "https://img.icons8.com/3d-fluency/40/hand--v1.png"
     }, 
     "content": "Basic greetings & What's your..?",
@@ -42,8 +42,8 @@
     "id": "unit2",
     "title": "Unit 2",
     "icons": {
-      "svg0": "https://img.icons8.com/pulsar-line/48/star.png", 
-      "svg1": "https://img.icons8.com/pulsar-gradient/48/star.png",
+      "svg0": "https://img.icons8.com/sf-black-filled/64/737373/rating-circled.png", 
+      "svg1": "https://img.icons8.com/sf-black-filled/64/40C057/rating-circled.png",
       "svg2": "https://img.icons8.com/color/40/so-so.png"
     },
     "content": "Learn jobs and plural nouns",
