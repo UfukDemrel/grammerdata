@@ -1,7 +1,7 @@
 [
   {
     "id": "unit1",
-    "background": "bg-red-500",
+    "background": "bg-red-400",
     "title": "Unit 1",
     "icons": {
       "svg0": "https://img.icons8.com/sf-black-filled/64/737373/rating-circled.png", 
