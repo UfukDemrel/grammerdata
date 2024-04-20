@@ -15,9 +15,7 @@
         "icons": "https://cdn3d.iconscout.com/3d/premium/thumb/finger-crossed-hand-gesture-8804832-7232863.png?f=webp",
         "states": [
           {
-            "id": "state1",
-            "text1": "Merhaba",
-            "text2": "Selamınaleyküm"
+            "id": "state1"
           }
         ]
       },
@@ -28,9 +26,7 @@
         "icons": "https://cdn3d.iconscout.com/3d/premium/thumb/multitasking-businessman-5627012-4703421.png?f=webp",
         "states": [
           {
-            "id": "state2",
-            "text1": "selam",
-            "text2": "kral"
+            "id": "state2"
           }
         ]
       },
@@ -41,9 +37,7 @@
         "icons": "https://cdn3d.iconscout.com/3d/premium/thumb/language-translation-8979790-7374712.png?f=webp",
         "states": [
           {
-            "id": "state3",
-            "text1": "uuuu",
-            "text2": "asdasdasd"
+            "id": "state3"
           }
         ]
       }
@@ -64,9 +58,7 @@
         "content": "Warmup: 2 truths and a lie.",
         "states": [
           {
-            "id": "state1",
-            "text1": "Merhaba",
-            "text2": "Selamınaleyküm"
+            "id": "state1"
           }
         ]
       }
