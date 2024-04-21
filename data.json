@@ -15,9 +15,7 @@
         "icons": "https://cdn3d.iconscout.com/3d/premium/thumb/finger-crossed-hand-gesture-8804832-7232863.png?f=webp",
         "states": [
           {
-            "id": "state1",
-            "text1": "Hi! how are you?",
-            "text2": "Good, we can start your English journey.",
+            "id": "state1"
           }
         ]
       },
