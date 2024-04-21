@@ -16,8 +16,8 @@
         "states": [
           {
             "id": "state1",
-            "text1": "Hi! how are you?"
-            "text2": "Good, we can start your English journey."
+            "text1": "Hi! how are you?",
+            "text2": "Good, we can start your English journey.",
           }
         ]
       },
