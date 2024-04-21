@@ -5,7 +5,7 @@
     "icons": {
       "svg": "https://img.icons8.com/3d-fluency/94/hand-with-pen--v2.png"
     },
-    "content": "Basic greetings & What's your..?",
+    "content": "Basic greetings & What's your?",
     "description": "Build upon your basic greetings knowledge and dive into more advanced phrases. Practice asking about well-being and expressing feelings.",
     "lessons": [
       {
@@ -17,7 +17,7 @@
           {
             "id": "state1",
             "text1": "Hi! how are you?",
-            "text2": "Good, we can start your English journey.",
+            "text2": "Good, we can start your English journey."
           }
         ]
       },
@@ -35,7 +35,7 @@
       {
         "id": "lesson3",
         "title": "Lesson 3",
-        "content": "Learn grammer: Basic grammar explanation",
+        "content": "Learn grammar: Basic grammar explanation",
         "icons": "https://cdn3d.iconscout.com/3d/premium/thumb/language-translation-8979790-7374712.png?f=webp",
         "states": [
           {
@@ -52,7 +52,7 @@
       "svg": "https://img.icons8.com/3d-fluency/94/police-badge.png"
     },
     "content": "Learn jobs and plural nouns",
-    "description": "You will learn how to name common jobs, form plural nouns, and correctly use the verb 'be'in various sentence structures",
+    "description": "You will learn how to name common jobs, form plural nouns, and correctly use the verb 'be' in various sentence structures",
     "lessons": [
       {
         "id": "lesson1",
