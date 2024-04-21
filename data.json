@@ -17,7 +17,10 @@
           {
             "id": "state1",
             "text1": "Hi! how are you?",
-            "text2": "Good, we can start your English journey."
+            "text2": "Good, we can start your English journey. Shall we play true/false with you?",
+            "text3": "That's great. Now let's move on to the next question.",
+            "text4": "You are progressing well.",
+            "text5": "That's it. It's great learning English with you."
           }
         ]
       },
