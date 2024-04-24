@@ -31,7 +31,12 @@
         "icons": "https://cdn3d.iconscout.com/3d/premium/thumb/multitasking-businessman-5627012-4703421.png?f=webp",
         "states": [
           {
-            "id": "state2"
+            "id": "state2",
+            "text1": "Hi! how are you?",
+            "text2": "Good, we can start your English journey. Shall we play true/false with you?",
+            "text3": "That's great. Now let's move on to the next question. Can you tell me the name of an animal?",
+            "text4": "Not bad. Now tell me some professions.",
+            "text5": "That's all for today. It was great learning English with you. See you tomorrow."
           }
         ]
       },
