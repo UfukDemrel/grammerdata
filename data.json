@@ -57,26 +57,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": "unit2",
-    "title": "Unit 2",
-    "icons": {
-      "svg": "https://img.icons8.com/3d-fluency/94/police-badge.png"
-    },
-    "content": "Learn jobs and plural nouns",
-    "description": "You will learn how to name common jobs, form plural nouns, and correctly use the verb 'be' in various sentence structures",
-    "lessons": [
-      {
-        "id": "lesson1",
-        "title": "Lesson 1",
-        "content": "Warmup: 2 truths and a lie.",
-        "states": [
-          {
-            "id": "state1"
-          }
-        ]
-      }
-    ]
   }
 ]
