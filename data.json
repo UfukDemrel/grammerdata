@@ -19,7 +19,7 @@
             "text1": "Hi! how are you?",
             "text2": "Good, we can start your English journey. Shall we play true/false with you?",
             "text3": "That's great. Now let's move on to the next question. Can you tell me the name of an animal?",
-            "text4": "Not bad. Now tell me some professions.",
+            "text4": "Not bad. Now tell me the name of any day.",
             "text5": "That's all for today. It was great learning English with you. See you tomorrow."
           }
         ]
@@ -32,11 +32,11 @@
         "states": [
           {
             "id": "state2",
-            "text1": "Hi! how are you?",
-            "text2": "Good, we can start your English journey. Shall we play true/false with you?",
-            "text3": "That's great. Now let's move on to the next question. Can you tell me the name of an animal?",
-            "text4": "Not bad. Now tell me some professions.",
-            "text5": "That's all for today. It was great learning English with you. See you tomorrow."
+            "text1": "Hey, good to see you. How are you?",
+            "text2": "Good, today we're going to learn about professions. Tell me one profession you know.",
+            "text3": "That's very good. So which profession responds to fire calls?",
+            "text4": "Wow. So what's your profession?",
+            "text5": "That's all for today. I wish you success in your profession. See you tomorrow."
           }
         ]
       },
